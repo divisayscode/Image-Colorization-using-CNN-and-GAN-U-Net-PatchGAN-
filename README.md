@@ -79,10 +79,3 @@ The combination of these losses balances correctness and perceptual realism.
 - A CNN baseline is essential for meaningful comparison  
 - Combining reconstruction and adversarial losses yields superior results  
 
----
-
-## Future Scope
-- Training on higher-resolution datasets  
-- Incorporating perceptual loss functions  
-- Quantitative evaluation using PSNR and SSIM  
-- Deployment as an interactive application  
